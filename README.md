@@ -2,7 +2,9 @@
 #### Development
 I'm currently in the third year of Computer Engineering at Instituto Maua de Tecnologia, São Paulo, Brazil.
 
-Skills: :snake: Python / :coffee:	Java /  :dolphin: SQL / Kotlin / C
+Skills: 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
 
 - 🔭 I’m currently working on https://github.com/DisPy2021 
 - 🌱 I’m currently learning Building modern Python application on AWS 
