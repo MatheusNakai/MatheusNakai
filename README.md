@@ -15,7 +15,8 @@ Skills:
 - 🌱 I’m currently learning Building modern Python application on AWS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MatheusNakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-nakai-36051a182//)  
+<a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-nakai-36051a182/" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNakai)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusNakai&show_icons=true)  
 
