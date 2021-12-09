@@ -12,7 +12,7 @@ Skills:
 
 
 - 🔭 I’m currently working on https://github.com/DisPy2021 
-- 🌱 I’m currently learning Building modern Python application on AWS 
+- 🌱 I’m currently learning Web Programming with Python and JavaScript
 
 
 <a href="https://www.linkedin.com/in/matheus-nakai-36051a182/" alt="Linkedin">
