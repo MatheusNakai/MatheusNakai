@@ -12,7 +12,7 @@ Skills:
 
 
 - 🔭 I’m currently working on https://github.com/Project-Maua
-- 🌱 I’m currently learning Web Programming with Python and JavaScript
+- 🌱 I’m currently learning solutions architect knowledge badge readiness path
 
 
 <a href="https://www.linkedin.com/in/matheus-nakai-36051a182/" alt="Linkedin">
